@@ -1,0 +1,26 @@
+.container1 {
+  display: flex;
+  padding-top: 13px;
+}
+
+.column1 {
+  flex: 1;
+  box-sizing: border-box;
+}
+
+.left-column1 {
+  padding-top: 35px;
+
+}
+
+.right-column1 {
+  padding-top: 130px;
+  padding-left: 50px;
+
+
+}
+
+.right-column1 p {
+  color: #30323e;
+  font-size: 20px;
+}
