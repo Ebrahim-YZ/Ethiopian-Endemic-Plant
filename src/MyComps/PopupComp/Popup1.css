@@ -1,0 +1,78 @@
+/* Add this to your CSS */
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 60%; /* Set the width to 60% of the screen */
+  height: 75vh; /* Set the height to 75% of the viewport height */
+  overflow-y: auto; /* Make the component scrollable if content exceeds the height */
+}
+
+/* Style for the close button */
+.popup button {
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  position: absolute;
+  top: 10px; /* Adjust the distance from the top */
+  right: 10px; /* Adjust the distance from the right */
+}
+
+.popup button:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50;
+}
+
+/* Style for making the close icon sticky when scrolled */
+.popup button.sticky {
+  position: sticky;
+  top: 10px; /* Adjust the distance from the top */
+  right: 10px; /* Adjust the distance from the right */
+  z-index: 1; /* Ensure the close icon stays above the content */
+}
+
+.popup {
+  text-align: left;
+  padding: 20px;
+}
+
+.popup p {
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+.popup img {
+  width: 350px;
+  height: 250px;
+  margin-right: 10px; /* Adjust margin as needed */
+}
+
+.popup button {
+  margin-top: 10px; /* Add margin to separate button from other content */
+  padding: 8px 16px;
+  background-color: #007bff; /* You can change this to the color you prefer */
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.popup button:hover {
+  background-color: #0056b3; /* Change the hover color as needed */
+}

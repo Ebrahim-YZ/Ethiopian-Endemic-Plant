@@ -1,0 +1,137 @@
+{
+    "Kop": "Ethiopian Köppen Climate Classification",
+    "WDC": "Warm Desert Climate",
+    "WSEC": "Warm Semi-Arid Climate",
+    "TSC": " Tropical Savanna Climate",
+    "HUC": " Humid Subtropical Climate",
+    "SUC": " Subtropical Oceanic Climate",
+    "TEC": "Temperate Oceanic Climate",
+    "WARC": "Warm Mediterranean Climate",
+    "TEMEC": "Temperate Mediterranean Climate",
+    "kopBtn": "Köppen Classification",
+    "TRDBtn": "Traditional Classification",
+    "Tkop": "Ethiopian Traditional Agroecological Zone Classification",
+    "Qola": "Qola (Less Hot Zone)",
+    "Berha": "Berha (More Hot Zone)",
+    "WeynaD": "Weyna Dega (Temperate Zone)",
+    "Dega": "Dega (Alpine Vegetated Zones)",
+    "Wurch": "Wurch (Very Temperate Zone)",
+    "kopBtn": "Köppen  Classification",
+    "TRDBtn": "Traditional  Classification ",
+    "RM": "Read More...",
+    "BTEP": "Ethiopian Endemic Plant",
+    "OnlyBTEP": "These 15 can be found in our botanical garden.",
+    "HeaderEnd": {
+        "Hageniaabyssinica1": "Hagenia abyssinica",
+        "Rosaabyssinica1": " Rosa abyssinica",
+        "Enset1": " Enset ventricosum ",
+        "Eragrostis1": " Eragrostis ",
+        "Coffee1": " Coffee arabica",
+        "Acacia1": " Acacia Seyal",
+        "Kniphofia1": " Kniphofia foliosa",
+        "Kalanchoe1": " Kalanchoe petitiana",
+        "Lippia1": " Lippia abyssinica",
+        "Jasminum1": " Jasminum stans",
+        "Millettia1": "Millettia",
+        "Vernonia1": " Vernonia amygdolina",
+        "Triumfetta1": " Triumfetta procumbens",
+        "Laggera1": " Laggera tomentosa",
+        "JasminumAb1": " JasminumAb abyssinicum"
+    },
+    "Exit": "Exit",
+    "EndmicList": {
+        "FamName": "Family Name: ",
+        "LanName": "Local Name: ",
+        "ShDis": "Short Description: ",
+        "Dis1": "Hagenia abyssinica, the East African rosewood, is a native tree with red bark, found in East Africa's highlands, valued for both its cultural importance and medicinal uses.",
+        "Hageniaabyssinica": {
+            "FN": "Rosaceae",
+            "LN": "kosso",
+            "Dis": "Hagenia is a monotypic genus of flowering plant with the sole species Hagenia abyssinica, native to the high-elevation Afromontane regions of central and eastern Africa."
+        },
+        "Dis2": "Rosa abyssinica is a species of wild rose native to East Africa, known for its attractive pink flowers and distinctive glandular hairs on its leaves and stems. It contributes to biodiversity and is valued for its ornamental beauty in horticulture.",
+        "Rosaabyssinica": {
+            "FN": "Rosaceae",
+            "LN": "Kega ",
+            "Dis": "Rosa abyssinica is a prickly evergreen shrub, creeping or often climbing, capable of forming a small tree up to 23 feet (7.0 meters) tall. It has a few prickles on the stem, slightly curved from a wide base and all similar. It has many variable features. "
+        },
+        "Dis3": "Enset ventricosum, commonly known as enset or false banana, is a plant species native to East Africa, valued for its starchy, banana-like pseudostems and edible underground corms.",
+        "Enset": {
+            "FN": "MUSACEAE",
+            "LN": " enset,    koba,  qoço,  qoço seyţan,   werqa  (Amh);  Ethiopian banana, false banana, fibre banana, wild banana (Eng); eset,  worqiet (Gur); koicho (Kef); waarqee (Orom); udo (Sha.); muz (Som); guna guna    (Tigre & Tya.)",
+            "Dis": "Robust perennial with a swollen base up to 3 m in circumference. Pseudo-trunk typically 2-5 m tall. Leaves oblong to oblanceolate-oblong, up to 7 x 1 m, green with red or purple accents. Flowers in a drooping inflorescence with sweet-scented blooms. Sepals 3, 3-6 cm long. Fruits are orange, dry, and fibrous, containing large blackish seeds. Habitat: Found in montane and riverine forests, cultivated widely, often in clearings, gullies, and near streams."
+        },
+        "Dis4": "Eragrostis tef, commonly known as teff, is a tiny grain native to Ethiopia and Eritrea, valued for its nutritional richness and gluten-free properties. It is a staple in the region and is widely used in traditional Ethiopian cuisine, particularly to make injera, a type of flatbread.",
+        "Eragrostis": {
+            "FN": "POACEAE",
+            "LN": " bazra tief, mańa,  tief neć, tief tqur, tief sergeńa,  tief  (Amh); tef (Eng); aylu, bashie, gashie, solo (Gam);  ta;f  (Ge’ez); gasho (Kef); meso, taffi, taffi guracha (Orom); tafi (Saho); taf bazra, ćenger taf, siso taf, taf, taf hagay, taf  wefey (Tya); geeshee (Wel) ",
+            "Dis": "Tufted annual grass with erect culms, reaching 30-100(-200) cm in height. Flat leaf-blades, 2-5 mm wide. Panicle 10-60 cm long, narrow elliptic to diffuse and ovate, with ascending branches. Spikelets on long filiform pedicels, narrowly oblong, 4-9 mm long, 1.5-3 mm wide, 4-12 flowered. Lemmas lanceolate-oblong, 2-3 mm long, with prominent nerves. Palea-keels scaberulous; anthers 3, 0.3-0.5 mm long; grain broadly ellipsoid, 1-1.2 mm long."
+        },
+        "Dis5": "*Coffee arabica is a species of coffee plant known for producing high-quality, flavorful coffee beans. Originating from Ethiopia, it is prized for its mild taste and aromatic qualities.*",
+        "Coffee": {
+            "FN": "RUBIACEAE",
+            "LN": " buna (Afar, Amh, Anu, Gur,  Kem, and Tya);  gia, jia (Bench);  keawa (Had.); toka (Gam);  cary (Maj); bunna ( Orom); tukiya (Wel) ",
+            "Dis": "Small tree or shrub, 4-6 m tall, with elliptic to ovate-lanceolate leaves (6-18 x 3-9 cm) and glossy, glabrous surfaces. Flowers in clusters, mostly 5-merous, with minute ring-like calyx and tube-shaped corolla (7-11 mm). Red drupe (12-22 mm when fresh) with seeds slightly shorter (c. 2 mm)."
+        },
+        "Dis6": "Acacia seyal, also known as the red acacia or shittah tree, is a deciduous tree native to Africa, recognized for its distinctive red gum and small, fern-like leaves. It is commonly utilized for its wood and gum resin.",
+        "Acacia": {
+            "FN": "Fabaceae",
+            "LN": "adiqento, makani (Afar); key grar (Amh); alalo, alaro (Anu); cea (Bil, Tre &  Tya); cea serakwe (Bil); shittim (Eng); cginda, pulo (Gam);  laeren (Maj); wacho, wacu, wajji, wajjo, wakko dimo, wasiya (Orom); aflo (Saho); fulaay, jiiq, waadhi (Som); germo, qeyyh cea, saeda cea  (Tya); fuliessa (Wel) ",
+            "Dis": "Small tree, up to 9 m in height, with flattened crown and powdery bark ranging from white to greenish yellow or orange-red. Young branchlets are nearly glabrous with reddish epidermis. Stipular spines can reach 8 cm, sometimes forming bilobed, Leaves have 3-7 pairs of pinnae and 11-20 pairs of small leaflets. Bright yellow flowers in heads, with a calyx of 2-2.5 mm and a corolla of 3.5-4 mm. Pods are falcate, constricted between seeds, dehiscent, and measure 7-20 x 0.5-0.9 cm. Elliptic seeds are compressed, 7-9 x 4.5-5 mm, with an areole of 5-6 x 2.5-3.5 mm."
+        },
+        "Dis7": "Kniphofia foliosa, commonly known as the mountain poker, is a perennial herb with grass-like foliage and tall spikes of tubular, orange-red flowers. Native to South Africa, it thrives in well-drained soils and attracts pollinators with its vibrant blooms.",
+        "Kniphofia": {
+            "FN": "ASPHODELACEAE ",
+            "LN": "abelbila, yejb shnkurt,  amelmiela, ashenda,  shemeţmeţie,  yeznjero ageda  (Amh); red hot poker,  torch lily (Eng); hurguufoo, waleeboo, sheemeţiimeţ,  shushubbee, siisiiyee  (Orom)",
+            "Dis": "Dense clumps of robust plants with erect rhizomes, reaching up to 40 cm in height. Linear lanceolate leaves, 20-100 x (1.6-)2-4(-7) cm, dark green to grey-green, serrulate margins, and smooth keels. Peduncle (including raceme) 30-150 cm long, raceme 15-40 cm long (up to 50 cm in fruit), very dense and cylindrical. Ovate to lanceolate bracts (4-12 x 25-35 mm) that dry brown. Pale yellow, orange, or red perianth, cylindrical (18-27 mm long), with slightly constricted base; perianth lobes 35-6 x 2-3 mm. Pedicel 3-4 mm long. Exserted stamens and style, 8-15 mm long; spirally twisted on fading. Ovoid fruit, each capsule part 7-8 x 6 mm."
+        },
+        "Dis8": "Kalanchoe pinnata, also known as Bryophyllum pinnatum, is a succulent plant with distinctive fleshy leaves that produce small plantlets along their edges. Commonly called the Mother of Thousands, it is known for its ability to reproduce vegetatively.",
+        "Kalanchoe": {
+            "FN": "CRASSULACEAE",
+            "LN": "yeqolla endahulla (Amh); muda (Gam); amdohale, anchura, andohahele, bosoqqe,  hancura, qorsa haxisoo (Orom); tamaqor (Som) ",
+            "Dis": "Dense perennial with decumbent stems, reaching 70 cm height and 3 cm thickness. Leaves are broadly elliptic to ovate, 6-16 x 4-11 cm, with crenate margins. Inflorescence is flat-topped, 1.2-1.5 m high, with congested flowers on long branches. Calyx-lobes linear-triangular, 7-11 x 1.3-2 mm. Corolla magenta-pink to white with a pink flush, tube 14-20 mm long. Follicles 7-12 mm, styles slightly shorter."
+        },
+        "Dis9": "Lippia abyssinica, commonly known as Ethiopian pepper or koseret, is a fragrant herb native to East Africa, valued for its culinary and medicinal uses.",
+        "Lippia": {
+            "FN": "Lamiaceae",
+            "LN": " kessie,  koserete, yewotet kessie (Amh); chudo (Benna); kesay,  kesenet,  koseret,  queseret  (Gur); shuke, wudo (Orom); keskese, kusay (Tya); dhigri (Som); olomo (Wel) ",
+            "Dis": "Compact shrub, 1-3 m tall, with 4-angled pubescent branches. Whorls of elliptic to lanceolate, green leaves, 2-7(-9.5) x 0.5-2.7(-3.5) cm. Terminal or axillary spikes, 4-10 mm wide, bearing purple flowers with white, yellow, or purple centers. Mericarps approximately 1 x 1 mm."
+        },
+        "Dis10": "Jasminum stans, commonly known as white jasmine or wild jasmine, is a tropical shrub with fragrant white flowers. Its glossy green leaves and aromatic blossoms make it a popular choice for ornamental purposes.",
+        "Jasminum": {
+            "FN": "Oleaceae",
+            "LN": "abeta hareg,  agula, tembelel, tero hareg, zohun keechamo  (Amh); xeo, elchimee, diqii,  bengile, achilibe, xewo, xambalalla biluu (Orom); habbi tsellim (Tya) ",
+            "Dis": "Climbing woody plant with trifoliolate leaves, fragrant white flowers, and purple-black berries. Leaves have acute to obtuse base, acuminate apex, and usually pilose domatia. Inflorescence is cymose corymbose, and the calyx has four teeth."
+        },
+        "Dis11": "Vernonia amygdalina, also known as bitter leaf, is a tropical plant with bitter-tasting leaves commonly used in traditional medicine and culinary applications, valued for its potential health benefits.",
+        "Vernonia": {
+            "FN": "Asteraceae",
+            "LN": "Umuyenzi",
+            "Dis": "Vernonia is a genus of about 350 species of forbs and shrubs in the family Asteraceae.Some species are known as ironweed. Some species are edible and of economic value."
+        },
+        "Dis12": "Triumfetta procumbens is a prostrate herbaceous plant with yellow flowers, commonly found in tropical and subtropical regions. It is known for its traditional medicinal uses in various cultures.",
+        "Triumfetta": {
+            "FN": "Malvaceae",
+            "LN": "Triumfetta brachyceras",
+            "Dis": "Triumfetta is a genus of plants in the family Malvaceae.[1] Burbark is a common name for plants in this genus"
+        },
+        "Dis13": "Millettia ferruginea, also known as the Munessa tree, is a deciduous tropical tree native to Africa, prized for its durable wood and traditionally used for timber and various medicinal purposes.",
+        "Millettia": {
+            "FN": "FABACEAE",
+            "LN": " brbrra (Amh, Gur & Tya); zagya, zagie (Gof & Wel); bibero (Kef); yago (Kef & Orom); rengazena (Kem); bilewu haqa (Had); sotelli, yagoy (Mes); aksira, asra, dedatu, karcecce, kotellu,engdicco, sari, sotellu  (Orom); ziyag, ziyagu (Sha); engedicco (Sid) ",
+            "Dis": "Tree with leaves up to 40 cm long; leaflets oblong-acuminate, 5-9 x 1-2.5 cm, pubescent or subglabrous. Pseudoracemes up to 30 cm, including a 5-10 cm peduncle. Calyx 6-8 mm long, densely pubescent with golden to blackish-brown hairs; corolla violet, (17-)20-30 mm long, with a silky standard outside. Disc tubular, 1-1.5 mm long. Flat pod, up to 27 x 3 cm, brown-pubescent at first, then glabrescent, 5-10-seeded."
+        },
+        "Dis14": "Laggera tomentosa, commonly known as woolly laggera, is a perennial herb with densely hairy leaves and yellow flowers, native to tropical and subtropical regions of Asia and Africa.",
+        "Laggera": {
+            "FN": "ASTERACEAE",
+            "LN": " koskoso  (Amh); kaskasse (Orom); ashkasho (Tya) ",
+            "Dis": "Aromatic herb, 0.5-1.2 m tall, with narrow-winged stem and tomentose leaves. Capitula in axillary clusters, pink or purple, with outer female and inner bisexual florets. Cypselas oblong-elliptic, 5-ribbed. Pappus white, barbellate, 5-5.5 mm long."
+        },
+        "Dis15": "Jasminum abyssinicum, commonly known as Ethiopian Jasmine, is a fragrant climbing shrub native to East Africa, prized for its aromatic white flowers and glossy green leaves. Its sweet scent makes it a popular choice for gardens and traditional medicinal uses in its native region.",
+        "JasminumAb": {
+            "FN": "Oleaceae",
+            "LN": "ano ketel (Amh); mito (Gum); intabuye (Orom) ",
+            "Dis": "Compact shrub, 3 m tall, with alternate imparipinnate leaves (3-7 leaflets). Terminal leaflet obovoid to elliptic, 1-2 x 0.4-1.2 cm, lateral leaflets smaller. Inflorescence terminal, 1-3 flowers, pendant without scent. Calyx tube 2-3 mm, lobes subulate, 1-2 mm. Yellow corolla, tube 15-23 mm, lobes 8-10 x 4-5 mm. Berries broadly ellipsoid, 8-10 mm."
+        }
+    }
+}

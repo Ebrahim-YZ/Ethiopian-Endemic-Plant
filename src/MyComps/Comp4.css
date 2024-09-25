@@ -1,0 +1,42 @@
+
+.header {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.header-title {
+    font-size: 20px;
+    border-radius: 7px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+    padding-left: 7px;
+    background: #fff;
+    transition: all 0.4s ease;
+    color: #30323e;
+    border-radius: 0.25rem;
+
+}
+
+.header.open {
+    font-size: 20px;
+}
+
+.paragraph {
+    font-size: 15px;
+    color: #30323e;
+    text-align: justify;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+
+}
+
+
+.link-button {
+    background: none;
+    border: none;
+    color: blue; /* You can choose the color you want */
+    cursor: pointer;
+    padding: 0; /* Optional: Remove padding to make it look more like a link */
+    font-weight: bold;
+  }
+  

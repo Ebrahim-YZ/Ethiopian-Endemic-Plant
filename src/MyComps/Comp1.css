@@ -1,6 +1,7 @@
 .container1 {
   display: flex;
-  padding-top: 13px;
+  padding-top: 10px;
+  padding-left: 5px;
 }
 
 .column1 {
@@ -9,18 +10,30 @@
 }
 
 .left-column1 {
-  padding-top: 35px;
+  padding-top: 45px;
 
 }
 
 .right-column1 {
-  padding-top: 130px;
-  padding-left: 50px;
+  padding-top: 80px;
+  padding-left: 70px;
 
 
 }
 
 .right-column1 p {
   color: #30323e;
-  font-size: 20px;
+  font-size: 18px;
+}
+
+.column1 select {
+  width: 100px;
+  color: #30323e;
+  padding: 5px 14px;
+  border: 1px solid #30323e;
+  margin-left: 30%;
+  font-weight: bold;
+  margin-top: 45px;
+  border-radius: 0.25rem;
+
 }
