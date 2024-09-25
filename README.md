@@ -5,7 +5,9 @@ Features:
 
 Plant Profiles: Detailed information about each plant, including its scientific name, common name, habitat, and unique characteristics.
 High-Quality Images: Stunning visuals of the plants in their natural habitats.
+
 Interactive Maps: Interactive maps highlighting the distribution of these plants across Ethiopia.
+
 Educational Content: Engaging articles and resources to learn more about Ethiopian plant diversity.
 Getting Started:
 
@@ -26,10 +28,8 @@ npm start
  
 
 Access the Application: Open your web browser and navigate to http://localhost:3000.   
-Contributing:
 
+Contributing:
 We welcome contributions from the community. Please feel free to submit pull requests or report issues.
 
-License:
-
-This project is licensed under Ebrahim Yesuf.
+License: This project is licensed under https://github.com/Ebrahim-YZ.
